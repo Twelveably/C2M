@@ -1,0 +1,13 @@
+main: io.github.bagas123.c2m.Main
+name: C2M
+version: 1.0
+author: Orthexa
+description: 
+commands:
+  coins:
+    description: Sell/buy coins
+    usage: /coins
+    permission: c2m.coins
+    permission-message: You don't have the c2m.coins permission.
+
+
